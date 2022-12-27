@@ -1,0 +1,1 @@
+27 дек. 2022 10:38:45,062 system - system - system  INFO SQLConflictLogger - TRANSACTION  lsfusion.server.data.sql.exception.SQLConflictException: UPDATE_CONFLICT UPDATE _auto SET Time_currentDateTimeSnapshot=CAST('2022-12-27 10:38:45.016488+03' AS timestamp) FROM dumb WHERE 1=1
